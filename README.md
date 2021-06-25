@@ -2,4 +2,4 @@
 Object Oriented Programming
 
 
-[OOP Concepts](oop-concepts/01_oop_concepts.md)
+[OOP Concepts](01_oop_concepts.md)
