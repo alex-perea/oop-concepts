@@ -1,6 +1,7 @@
 # Object Oriented Programming Concepts
 This article presents a brief summary of object-oriented programming.
-summary by: alex_perea@hotmail.com
+
+Summary by: alex_perea@hotmail.com
 
 ## Table of Content
 - What is OOP?
