@@ -4,8 +4,12 @@
 
 The *User Story* is part of **Agile**, an iterative approach to project management and software development that helps teams deliver value to their customers faster and efficient.
 
-My user story example:
+My user stories examples:
 
-**As a** Financial Director  
-I **want to** get a list of Gross profit by customer  
-**So that** I can decide wich customers deserve bonifications  
+**As a** Financial Analyst
+**I want to** get access to Sales report
+**so that** I can View Sales data by customer
+
+**As a** Financial Analyst
+**I want to** get access to Rebates module
+**so that** I can Set sales discounts by customer
